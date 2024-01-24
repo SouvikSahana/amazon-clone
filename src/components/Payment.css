@@ -1,0 +1,26 @@
+.payment{
+    background-color: white;
+}
+.payment_section{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 20px;
+
+}
+.payment_section> .payment_address>p{
+    padding: 2px;
+    margin: 0;
+}
+.payment_container> h1{
+    text-align: center;
+}
+.payment_title{
+    border-bottom: 1px solid grey;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+}
+.payment_container{
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
